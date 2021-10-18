@@ -1,3 +1,5 @@
+@author:Azee-white
+
 import pygame
 import os
 pygame.font.init()
