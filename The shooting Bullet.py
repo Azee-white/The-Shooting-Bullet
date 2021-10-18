@@ -1,4 +1,4 @@
-@author:Azee-white
+# @author:Azee-white
 
 import pygame
 import os
